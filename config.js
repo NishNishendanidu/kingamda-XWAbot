@@ -53,7 +53,7 @@ module.exports = {
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.ibb.co/9VNNSFF/Kingamda-X-logo.jpg' : process.env.GIF_WEL,
     SLINK: process.env.IG === undefined ? 'https://github.com/NishNishendanidu/Raganork.git' : process.env.IG,
     JID: process.env.VERIFIED === undefined ? '0@s.whatsapp.net' : process.env.VERIFIED,
-    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://c.tenor.com/6tlIWiAlT_gAAAPo/cat-impressed-cat-wow.mp4' : process.env.GIF_BYE,
+    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.ibb.co/9VNNSFF/Kingamda-X-logo.jpg' : process.env.GIF_BYE,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.ibb.co/9VNNSFF/Kingamda-X-logo.jpg' : process.env.ALL_IMG,
     created_by_souravkl11: process.env.ALL_IMG2 === undefined ? 'https://i.ibb.co/9VNNSFF/Kingamda-X-logo.jpg' : process.env.ALL_IMG2,
     take_key: process.env.TAKE_KEY === undefined ? '' : process.env.TAKE_KEY,
