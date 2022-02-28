@@ -1,4 +1,4 @@
-# Raganork
+# kingamda-X 
 Simple Whatsapp bot :)
 # kingamda-X
 
